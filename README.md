@@ -1,4 +1,4 @@
-# Project | Meal-kit
+# Project | Meal-kit Recommendation
 
 ## 1. 프로젝트 개요
 제목 : 당신의 식탁에 오를 다음 밀키트는?
